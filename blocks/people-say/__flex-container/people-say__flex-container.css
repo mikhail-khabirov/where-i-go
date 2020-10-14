@@ -1,0 +1,6 @@
+.people-say__flex-container {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 2*60px);
+  margin: 120px 0 120px;
+}
