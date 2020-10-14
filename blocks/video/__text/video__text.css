@@ -1,0 +1,8 @@
+.video__text {
+  position: absolute;
+  top: 110px;
+  left: 70px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+}

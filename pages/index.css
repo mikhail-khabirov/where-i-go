@@ -16,3 +16,8 @@
 @import url(../blocks/form/__input-place/form__input-place.css);
 @import url(../blocks/form/__input-reason/form__input-reason.css);
 @import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__clip/video__clip.css);
+@import url(../blocks/video/__text/video__text.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
