@@ -1,0 +1,5 @@
+.destination__flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

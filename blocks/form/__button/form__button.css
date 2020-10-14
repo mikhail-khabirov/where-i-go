@@ -1,0 +1,8 @@
+.form__button {
+  color: #fff;
+  align-self: flex-end;
+  background-color: #000;
+  border: none;
+  font-size: 12px;
+  padding: 7px;
+}
