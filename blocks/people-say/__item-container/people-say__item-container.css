@@ -2,3 +2,9 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 767px) {
+  .people-say__item-container {
+    flex-wrap: wrap;
+  }
+}

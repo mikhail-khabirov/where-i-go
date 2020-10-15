@@ -5,3 +5,10 @@
   margin: 0 0 110px;
   width: 400px;
 }
+
+@media screen and (max-width: 767px) {
+  .people-say__title {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+}

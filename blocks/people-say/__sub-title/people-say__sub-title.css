@@ -5,3 +5,9 @@
   font-size: 11px;
   margin: 0 0 30px;
 }
+
+@media screen and (max-width: 767px) {
+  .people-say__sub-title {
+    margin-bottom: 15px;
+  }
+}

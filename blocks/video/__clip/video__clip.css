@@ -3,3 +3,9 @@
   height: 525px;
   border: none;
 }
+
+@media screen and (max-width: 767px) {
+  .video__clip {
+    height: 325px;
+  }
+}

@@ -6,3 +6,10 @@
   font-size: 30px;
   font-weight: 700;
 }
+
+@media screen and (max-width: 767px) {
+  .video__text {
+    top: 60px;
+    font-size: 25px;
+  }
+}

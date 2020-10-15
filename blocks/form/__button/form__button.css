@@ -6,3 +6,9 @@
   font-size: 12px;
   padding: 7px;
 }
+
+@media screen and (max-width: 767px) {
+  .form__button {
+    margin-bottom: 20px;
+  }
+}

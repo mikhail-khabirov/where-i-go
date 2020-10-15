@@ -2,3 +2,9 @@
   width: 50%;
   object-fit: cover;
 }
+
+@media screen and (max-width: 767px) {
+  .destination__pic {
+    width: 100%;
+  }
+}
