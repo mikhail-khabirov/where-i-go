@@ -9,3 +9,9 @@
 .header__menu-item:last-child {
   margin-right: 0;
 }
+
+@media screen and (max-width: 767px) {
+  .header__menu-item {
+    margin: 0 0 15px;
+  }
+}

@@ -2,3 +2,9 @@
   width: calc(100% - 2*65px);
   margin: 0 auto;
 }
+
+@media screen and (max-width: 767px) {
+  .header {
+    width: calc(100% - 2*20px);
+  }
+}

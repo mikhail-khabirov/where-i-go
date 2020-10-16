@@ -1,5 +1,11 @@
 .places__title {
   font-size: 30px;
   font-weight: 700;
-  margin: 0 0 150px;
+  margin: 0 0 90px;
+}
+
+@media screen and (max-width: 767px) {
+  .places__title {
+    margin: 10px 0 30px;
+  }
 }

@@ -4,3 +4,10 @@
   margin: 42px 0 0;
   display: flex;
 }
+
+@media screen and (max-width: 767px) {
+  .header__menu {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+}
