@@ -27,6 +27,7 @@
 @import url(../blocks/people-say/__item-title/people-say__item-title.css);
 @import url(../blocks/people-say/__item-text/people-say__item-text.css);
 @import url(../blocks/destination/destination.css);
+@import url(../blocks/destination/__wrapper/destination__wrapper.css);
 @import url(../blocks/destination/__flex-container/destination__flex-container.css);
 @import url(../blocks/destination/__pic/destination__pic.css);
 @import url(../blocks/destination/__title/destination__title.css);

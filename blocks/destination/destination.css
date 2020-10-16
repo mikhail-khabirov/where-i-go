@@ -1,11 +1,4 @@
 .destination {
   background-color: #f2f2f2;
-  display: flex;
-  justify-content: space-between;
 }
 
-@media screen and (max-width: 767px) {
-  .destination {
-    flex-direction: column;
-  }
-}

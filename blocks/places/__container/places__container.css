@@ -1,6 +1,8 @@
 .places__container {
   display: flex;
   align-items: center;
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 .places__container:nth-last-of-type(2) {
