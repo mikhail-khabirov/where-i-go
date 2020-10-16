@@ -1,0 +1,11 @@
+.header__menu-item {
+  margin-right: 35px;
+}
+
+.header__menu-item:nth-child(3) {
+  margin-right: auto;
+}
+
+.header__menu-item:last-child {
+  margin-right: 0;
+}

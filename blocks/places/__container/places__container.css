@@ -1,0 +1,8 @@
+.places__container {
+  display: flex;
+  align-items: center;
+}
+
+.places__container:nth-last-of-type(2) {
+  flex-direction: row-reverse;
+}

@@ -1,0 +1,5 @@
+.header__flex-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 510px;
+}
