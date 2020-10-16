@@ -2,6 +2,11 @@
   margin-right: 35px;
 }
 
+.header__menu-item:hover {
+  transition: opacity .4s ease-in-out;
+  opacity: .3;
+}
+
 .header__menu-item:nth-child(3) {
   margin-right: auto;
 }

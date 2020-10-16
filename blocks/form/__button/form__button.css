@@ -7,6 +7,12 @@
   padding: 8px;
 }
 
+.form__button:hover {
+  transition: opacity .3s ease-in-out;
+  opacity: .3;
+  cursor: pointer;
+}
+
 @media screen and (max-width: 767px) {
   .form__button {
     margin-bottom: 20px;
